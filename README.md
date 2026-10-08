@@ -35,7 +35,7 @@ Pages that fail are filtered out and listed with the reason. **You don't pay for
 
 - 1 link = 1 credit = **$0.01**
 - No subscriptions, no bundles: top up any amount from **$5**
-- Payment: **USDT (BEP20, TRC20)** or **@CryptoBot**
+- Payment: **USDT (BEP20 or TRC20)**
 - **10 free links** for every new user
 - Referral program: invite friends and get **20%** of their top-ups in credits
 
@@ -76,7 +76,7 @@ Indexing usually takes 1 to 3 days.
 
 - 1 ссылка = 1 кредит = **$0.01**
 - Без подписок и пакетов: пополнение на любую сумму от **$5**
-- Оплата: **USDT (BEP20, TRC20)** или **@CryptoBot**
+- Оплата: **USDT (BEP20 или TRC20)**
 - **10 ссылок бесплатно** каждому новому пользователю
 - Реферальная программа: **20%** от пополнений приглашённых друзей кредитами
 
