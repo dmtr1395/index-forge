@@ -17,7 +17,7 @@ Send the bot your pages in any form:
 - a list of links, one per line;
 - a `.txt` file with links;
 - one or more sitemap URLs;
-- just a domain like `example.com`: the bot finds the sitemap and collects every page itself.
+- just a domain like `example.com`: the bot finds its sitemap and takes the pages from it.
 
 Before submitting, the bot **checks every page the way Googlebot sees it**:
 
@@ -58,7 +58,7 @@ Indexing usually takes 1 to 3 days.
 - ссылки, по одной в строке;
 - `.txt`-файл со ссылками;
 - один или несколько адресов sitemap;
-- просто домен, например `example.com`: бот сам найдёт sitemap и соберёт все страницы.
+- просто домен, например `example.com`: бот сам найдёт его sitemap и возьмёт страницы оттуда.
 
 Перед отправкой бот **проверяет каждую страницу так, как её видит Googlebot**:
 
